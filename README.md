@@ -1,4 +1,3 @@
 # Book-Directory
 
-To run my nodejs project, do <br>
-npm run dev
+To run my nodejs project, do npm run dev.
