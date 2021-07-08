@@ -1,2 +1,4 @@
 # Book-Directory
-used nodejs and a dummy json file to explore api endpoints, used postman to understand each feature
+
+To run my nodejs project, do <br>
+npm run dev
